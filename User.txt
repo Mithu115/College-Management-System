@@ -1,0 +1,15 @@
+Admin
+
+User id: admin@gmail.com
+pass:1234
+
+ Teacher
+user is: amin@gmail.com
+pass: 1234
+
+Student
+user id: 1001
+pass:1234
+
+User id: 1002
+pass:1234
